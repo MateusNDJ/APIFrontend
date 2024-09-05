@@ -1,0 +1,36 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	deleted:    Front
+#	deleted:    README.md
+#	deleted:    package-lock.json
+#	deleted:    package.json
+#	deleted:    public/favicon.ico
+#	deleted:    public/index.html
+#	deleted:    public/logo192.png
+#	deleted:    public/logo512.png
+#	deleted:    public/manifest.json
+#	deleted:    public/robots.txt
+#	deleted:    src/App.css
+#	deleted:    src/App.js
+#	deleted:    src/components/About.js
+#	deleted:    src/components/AlertsConfig.js
+#	deleted:    src/components/Contact.js
+#	deleted:    src/components/DeviceDetails.js
+#	deleted:    src/components/DeviceList.js
+#	deleted:    src/components/DeviceLogs.js
+#	deleted:    src/components/Home.js
+#	deleted:    src/components/Login.js
+#	deleted:    src/index.css
+#	deleted:    src/index.js
+#	deleted:    src/lixeira/App.test.js
+#	deleted:    src/lixeira/logo.svg
+#	deleted:    src/lixeira/setupTests.js
+#	deleted:    src/reportWebVitals.js
+#	deleted:    src/services/api.js
+#
