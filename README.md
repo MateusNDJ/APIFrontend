@@ -17,4 +17,4 @@ Antes de começar, certifique-se de ter o seguinte instalado:
 
    ```bash
    git clone https://github.com/MateusNDJ/FrontEndAPI.git
-   cd FrontEndAPI/frontend
+   cd  APIFrontend
